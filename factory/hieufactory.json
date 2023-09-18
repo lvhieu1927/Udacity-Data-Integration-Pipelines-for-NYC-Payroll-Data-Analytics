@@ -1,0 +1,9 @@
+{
+	"name": "hieufactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f59243d0-1098-48cd-8a8a-e1bb653a0679",
+		"tenantId": "3399d4f4-43bd-4d38-a8a3-cb22a7e396dd"
+	}
+}
